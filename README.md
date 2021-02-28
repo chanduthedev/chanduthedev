@@ -1,6 +1,6 @@
 ### Hi there 👋, 
 
-##### My Socual media links:
+##### My Social media links:
 
 * [LinkedIn](https://sg.linkedin.com/in/chanduthedev)
 * [Blog](http://www.chanduthedev.com/)
