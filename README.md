@@ -3,7 +3,7 @@
 ##### My Social media links:
 
 * [LinkedIn](https://sg.linkedin.com/in/chanduthedev)
-* [Dev](https://dev.to/chanduthedev)
+* [Dev.to](https://dev.to/chanduthedev)
 * [Blog](http://www.chanduthedev.com/)
 * [StackOverflow](https://stackoverflow.com/users/1476655/chanduthedev)
 * [Twitter](https://twitter.com/chanduthedev)
