@@ -3,10 +3,11 @@
 ##### My Social media links:
 
 * [LinkedIn](https://sg.linkedin.com/in/chanduthedev)
-* [Blog](http://www.chanduthedev.com/)
 * [Dev](https://dev.to/chanduthedev)
-* [Twitter](https://twitter.com/chanduthedev)
+* [Blog](http://www.chanduthedev.com/)
 * [StackOverflow](https://stackoverflow.com/users/1476655/chanduthedev)
+* [Twitter](https://twitter.com/chanduthedev)
+
 
 ##### My Open source contributions:
 
