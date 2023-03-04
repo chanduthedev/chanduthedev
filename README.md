@@ -8,11 +8,6 @@
 * [StackOverflow](https://stackoverflow.com/users/1476655/chanduthedev)
 * [Twitter](https://twitter.com/chanduthedev)
 
-##### Personal Projects:
-
-1. [Emotional Analysis](https://chemotionpredictionui.herokuapp.com/)
-2. [Recipe React Application](http://chrecipewebui.herokuapp.com/)
-
 
 ##### Open source contributions:
 
